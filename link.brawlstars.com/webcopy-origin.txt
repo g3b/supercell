@@ -1,0 +1,84 @@
+Uri: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\scripttemplates\otSDKStub.js
+Content Type: application/javascript
+
+Uri: https://link.brawlstars.com/images/game/nextImageExportOptimizer/logo-opt-384.WEBP
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\images\game\nextImageExportOptimizer\logo-opt-384.WEBP
+Content Type: image/webp
+
+Uri: https://link.brawlstars.com/images/game/nextImageExportOptimizer/logo-opt-750.WEBP
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\images\game\nextImageExportOptimizer\logo-opt-750.WEBP
+Content Type: image/webp
+
+Uri: https://link.brawlstars.com/invite/gameroom/en/
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\invite\gameroom\en\index.htm
+Content Type: text/html
+
+Uri: https://link.brawlstars.com/nextImageExportOptimizer/supercell_logo.73c8fcbc-opt-128.WEBP
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\nextImageExportOptimizer\supercell_logo.73c8fcbc-opt-128.WEBP
+Content Type: image/webp
+
+Uri: https://link.brawlstars.com/nextImageExportOptimizer/supercell_logo.73c8fcbc-opt-64.WEBP
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\nextImageExportOptimizer\supercell_logo.73c8fcbc-opt-64.WEBP
+Content Type: image/webp
+
+Uri: https://link.brawlstars.com/_next/static/chunks/69-aea7e36ee545cd1b.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\69-aea7e36ee545cd1b.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/741-f3964249c97b69c0.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\741-f3964249c97b69c0.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/785-fa0d75bd6d19796d.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\785-fa0d75bd6d19796d.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/88-709b497da2d54d07.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\88-709b497da2d54d07.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/app/invite/[inviteType]/[locale]/page-98fb532f61f6d6f9.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\app\invite\[inviteType]\[locale]\page-98fb532f61f6d6f9.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/app/layout-ec2f72526fb4ae96.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\app\layout-ec2f72526fb4ae96.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/fd9d1056-02830fcbd039be24.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\fd9d1056-02830fcbd039be24.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/main-app-ca03655154402ac7.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\main-app-ca03655154402ac7.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/chunks/webpack-b04ecf59f868a51d.js
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\chunks\webpack-b04ecf59f868a51d.js
+Content Type: text/javascript
+
+Uri: https://link.brawlstars.com/_next/static/css/42e9b30f17614963.css
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\css\42e9b30f17614963.css
+Content Type: text/css
+
+Uri: https://link.brawlstars.com/_next/static/css/a27b79e6662c4e52.css
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\css\a27b79e6662c4e52.css
+Content Type: text/css
+
+Uri: https://link.brawlstars.com/_next/static/media/01ac8b8d7d5f099c-s.p.woff2
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\media\01ac8b8d7d5f099c-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://link.brawlstars.com/_next/static/media/37493bf1e3d603d5-s.p.woff2
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\media\37493bf1e3d603d5-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://link.brawlstars.com/_next/static/media/8c3b53925983ecf3-s.p.woff2
+File Name: C:\Downloaded Web Sites\link.brawlstars.com\_next\static\media\8c3b53925983ecf3-s.p.woff2
+Content Type: font/woff2
+
